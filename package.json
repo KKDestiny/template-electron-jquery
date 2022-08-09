@@ -50,6 +50,7 @@
     "socket.io-client": "^4.5.1"
   },
   "dependencies": {
+    "@babel/preset-env": "^7.18.10",
     "@babel/runtime": "^7.10.3",
     "@types/fs-extra": "^9.0.13",
     "axios": "^0.24.0",
